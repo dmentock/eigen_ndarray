@@ -1,0 +1,7 @@
+Care for different cases in algebra (this is/is not slice, other is/is not slice)
+get_array() to return raw tensor
+slice of slice
+= operator overload for ndarray
+MN specification
+get_array() for chipped and non-sliced arrays (currently creates ambiguous return if implemented directly)
+pass setValues to Eigen
